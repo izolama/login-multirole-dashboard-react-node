@@ -4,7 +4,7 @@ Perkembangan mobile telah mendapatkan perkembangan pesat akan teknologi yang men
 
 Perkembangan ini membuat para developer Mobile dituntut untuk efisien dan cepat dalam menyelesaikan pekerjaan. Pada suatu saat Google merilis SDK Flutter yang membuat developer mobile di compile pada sistem operasi Android dan iOS.
 
-Flutter ini dirilis oleh Google secara gratis pada *Mei 2017*,  tempat gratis untuk dipergunakan oleh pengembang mobile.
+Flutter ini dirilis oleh Google secara gratis pada __Mei 2017__,  tempat gratis untuk dipergunakan oleh pengembang mobile.
 <br></br>
 
 ## Daftar Isi
